@@ -12,3 +12,9 @@ Technologies Used: HTML, CSS, Bootstrap, Javascript, JQuery <br/><br/>
 
 ### Course 2 Capstone Project Demo: https://youtu.be/7DrUI_nhp6E <br/>
 Technologies Used: HTML, CSS, React.js, Redux <br/><br/>
+
+### Course 3 Capstone Project Demo: TEMPORARILY UNAVAILABLE <br/>
+Technologies Used: HTML, CSS, React Native, Redux <br/><br/>
+
+### Course 4 Capstone Project Demo: TEMPORARILY UNAVAILABLE <br/>
+Technologies Used: MongoDB, Mongoose, Express.js, Passport.js, JWT<br/><br/>
