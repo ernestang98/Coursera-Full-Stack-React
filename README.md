@@ -11,7 +11,7 @@ Course Outline: https://www.coursera.org/specializations/full-stack-react <br/>
 Technologies Used: HTML, CSS, Bootstrap, Javascript, JQuery <br/><br/>
 
 ### Course 2 Capstone Project Demo: https://youtu.be/7DrUI_nhp6E <br/>
-Technologies Used: HTML, CSS, React.js, Redux <br/><br/>
+Technologies Used: React.js, Redux <br/><br/>
 
 ### Course 3 Capstone Project Demo: TEMPORARILY UNAVAILABLE <br/>
 Technologies Used: React Native, Redux <br/><br/>
